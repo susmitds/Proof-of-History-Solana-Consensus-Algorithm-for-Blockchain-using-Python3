@@ -1,5 +1,5 @@
 # Proof-of-History-Solana-Consensus-Algorithm-for-Blockchain-using-Python
-Proof of History is the primary consensus algorithm used in the popular blockchain architecture Solana. In this pet project, I have created a true implemention of the Proof of History consensus algorithm used in Solana with Python 3.8
+Proof of History is the primary consensus algorithm used in the popular blockchain architecture Solana. In this pet project, I have studied Solana in detail and created a true implemention of the Proof of History consensus algorithm used in Solana with Python 3.8 and compared it to the existing Proof of Work consensus algorithm.
 
 In recent times, we are witnessing a global push in the tech industry towards the development of decentralized distributed systems for data transactions leading to significant advancements in the distributed ledger technology known as blockchain. However, the speed of transactions of most blockchain models is still significantly behind the speed of transactions provided by Visa or Master Card. Solana, a brainchild of Anatoly Yakovenko, has managed to change that with its unique consensus algorithm.
 
